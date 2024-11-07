@@ -32,7 +32,7 @@
   
   *Output:*
 
-  <img src="op1.png">
+  <img src="output_images/op1.png">
   
 ---
 
@@ -42,7 +42,7 @@
   
   *Output:*
   
-  <img src="op2.png">
+  <img src="output_images/op2.png">
 
 ---
  - **SELECT Query**
@@ -51,7 +51,7 @@
   
   *Output:*
   
-  <img src="OP3.png">
+  <img src="output_images/OP3.png">
 
 ---
  
@@ -65,7 +65,7 @@
     
   *Output:*
   
-  <img src="OP3.png">
+  <img src="output_images/OP3.png">
 
 ---
 
@@ -80,7 +80,7 @@
   
   *Output:*
   
-  <img src="op4.png">
+  <img src="output_images/op4.png">
 
 ---
 
@@ -92,7 +92,7 @@
   
   *Output:*
   
-  <img src="OP5.png">
+  <img src="output_images/OP5.png">
 
 ---
 
@@ -102,7 +102,7 @@
   
   *Output:*
   
-  <img src="OP6.png">
+  <img src="output_images/OP6.png">
 
 ---
 
@@ -116,7 +116,7 @@
   
   *Output:*
   
-  <img src="OP7.png">
+  <img src="output_images/OP7.png">
 ---
 
 - **Left Join Query**
@@ -130,7 +130,7 @@
   
   *Output:*
   
-  <img src="OP8.png">
+  <img src="output_images/OP8.png">
 
 ---
 
@@ -145,7 +145,7 @@
 
   *Output:*
   
-  <img src="OP9.png">
+  <img src="output_images/OP9.png">
 
 ---
 
@@ -169,7 +169,7 @@
   
   *Output:*
   
-  <img src="OP10.png">
+  <img src="output_images/OP10.png">
 
 ---
 
